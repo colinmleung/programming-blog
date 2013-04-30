@@ -1,0 +1,24 @@
+{
+  "name": "programming_blog",
+  "subdomain": "placeholder",
+  "domains": [
+    "placeholder.com",
+    "www.placeholder.com"
+  ],
+  "author": "Colin Leung <colinmleung@gmail.com>",
+  "description": "programming blog",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~3.0.0",
+    "jade": ">=0.0.1",
+    "connect": ">=1.9.1"
+  },
+  "version": "0.0.1-107",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": "0.8.x"
+  }
+}

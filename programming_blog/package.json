@@ -1,0 +1,16 @@
+{
+  "name": "programming_blog",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "coffee app.coffee"
+  },
+  "dependencies": {
+    "express": "3.2.0",
+    "jade": "*",
+    "stylus": "*",
+    "coffee-script": "*",
+    "connect-assets": "*",
+    "poet": "*"
+  }
+}
